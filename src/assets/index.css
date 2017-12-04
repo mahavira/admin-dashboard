@@ -1,0 +1,9 @@
+@import './table.css';
+body {
+  margin: 0;
+}
+.table td.no-data {
+  border: 0;
+  padding: 50px 0;
+  text-align: center
+}
